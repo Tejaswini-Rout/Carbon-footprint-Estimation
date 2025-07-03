@@ -67,26 +67,6 @@ python main.py
 
 ---
 
-## 📄 Report
-
-For a detailed explanation of the system architecture, UML diagrams, and evaluation:  
-**[See the project report](./report.pdf)**
-
----
-
-## 👨‍💻 Team Members
-
-- Pranav Aditya Jandhyala (21VE1A6646)  
-- Yogita Chandra B Thapa (21VE1A6665)  
-- Tejaswini Rout (21VE1A6659)  
-- Ravula Manoj (21VE1A6651)
-
-Under the guidance of **Dr. A. Swathi**, Assistant Professor, Department of CSE (AI & ML)
-
-Affiliated to **Jawaharlal Nehru Technological University, Hyderabad**
-
----
-
 ## 🌱 Future Scope
 
 - Real-time IoT integration for live monitoring  
